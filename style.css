@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    margin: 30px;
+    text-align: center;
+    color:white ;
+}
+header{
+     background-color: blue;
+     padding: 20px;
+     
+}
+header p{
+    text-align: right;
+}
+a{
+    background-color: blueviolet;
+    color: aliceblue;
+    margin-top: 10px;
+    padding: 10px;
+}
+main{
+    background-color: aqua;
+    padding-top:50px ;
+}
+img{
+    width:300px;
+    height:400px;
+}
+.q1{
+    background-color: brown;
+}
+.q2{
+    background-color: grey;
+}
+.q3{
+    background-color: yellow;
+}
